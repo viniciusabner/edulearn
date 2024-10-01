@@ -1,0 +1,24 @@
+.navbar {
+    padding: 0 !important;
+
+    a:hover {
+        color: #ed145b;
+    }
+}
+
+.navbar-brand {
+    padding: 0 !important;
+}
+
+.navbar-collapse {
+    justify-content: center !important;
+}
+
+.navbar-nav {
+    gap: 50px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
